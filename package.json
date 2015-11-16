@@ -1,0 +1,36 @@
+{
+  "author": {
+    "name": "Crystian (Cristian Bietti)"
+  },
+  "bugs": {
+    "url": "https://github.com/crystian/gulp-minMaxFiles/issues"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through": "^2.3.8"
+  },
+  "description": "Break the stream if it does not get any file for your stream",
+  "homepage": "https://github.com/crystian/gulp-files-required/issues",
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "minMaxFiles",
+    "required"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "crystian",
+      "email": "crystian@gmail.com"
+    }
+  ],
+  "name": "gulp-minMaxFiles",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/crystian/gulp-files-required.git"
+  },
+  "scripts": {},
+  "version": "1.0.0"
+}
