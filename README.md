@@ -1,4 +1,4 @@
-gulp-min-max-files
+gulp-files-required
 =========
 
 Gulp plugin: Set minimum and/or maximum files required for your stream
