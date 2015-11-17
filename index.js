@@ -8,6 +8,7 @@ module.exports = function(minValue, maxValue) {
 
     function countFiles(file) {
       count++;
+      this.push(file);
     }
 
     function endStream() {
