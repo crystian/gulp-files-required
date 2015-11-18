@@ -18,5 +18,4 @@ npm-debug.log
 node_modules
 *.sublime*
 .travis.yml
-test
 examples

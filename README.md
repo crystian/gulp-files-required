@@ -32,6 +32,10 @@ Or without argument for an single file as minimum required
 
 By default, a gulp task will fail and all streams will halt when an error happens. You need to handle it.
 
+
+**NOTE**
+This is my first plugin, sorry for the errors.
+
 ## License
 
 (MIT License)
