@@ -35,7 +35,7 @@
   "scripts": {
     "test": "node_modules/.bin/mocha tests/**/*.js --reporter spec"
   },
-  "version": "1.0.6",
+  "version": "1.0.7",
   "devDependencies": {
     "mocha": "^2.3.4",
     "vinyl": "^1.1.0"

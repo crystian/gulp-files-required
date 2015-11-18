@@ -1,17 +1,17 @@
 gulp-files-required
 =========
 
-Gulp plugin: Set minimum and/or maximum files required for your stream
+Gulp plugin: Set minimum and/or maximum files required for your stream.
 
 ## Installation
 
 ```
-npm install gulp-min-max-files
+npm install gulp-files-required
 ```
 
 ## Basic Usage
 
-You can set min and/or max (each number is included)
+You can set min and/or max (each number is included), if it does not pass the validation, it throw an error an break the process.
 
 ```js
 var filesRequired = require('gulp-files-required');
